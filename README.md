@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### About Me
+I'm a deep thinker and learn to improve skills, love to adapt any work, happy to help. It's not about the career that we chose, it's about what skills we earned. I believe that my knowledge and skills evolve professionally. Currently working on Web Development and Data Structures.
+
+### What do I do for fun?
+- Cricket
+- Photography
+- Watching Web Series and English TV Shows.
