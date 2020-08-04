@@ -22,3 +22,5 @@ I'm a deep thinker and learn to improve skills, love to adapt any work, happy to
 - Cricket
 - Photography
 - Watching Web Series and English TV Shows.
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=priyathamhub)](https://github.com/priyathamhub/github-readme-stats)
