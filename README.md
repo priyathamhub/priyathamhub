@@ -1,5 +1,6 @@
 ### Hi there 👋 I am Priyatham Susarla and Welcome to my repositories...
 
+
 <!--
 **priyathamhub/priyathamhub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -24,3 +25,8 @@ I'm a deep thinker and learn to improve skills, love to adapt any work, happy to
 - Watching Web Series and English TV Shows.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=priyathamhub)](https://github.com/priyathamhub/github-readme-stats)
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/priyathamhub/count.svg" />
+</p>
