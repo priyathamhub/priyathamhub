@@ -19,6 +19,13 @@ Here are some ideas to get you started:
 ### About Me
 I'm a deep thinker and learn to improve skills, love to adapt any work, happy to help. It's not about the career that we chose, it's about what skills we earned. I believe that my knowledge and skills evolve professionally. Currently working on **Machine Learning** and **AWS**.
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=priyathamhub)](https://github.com/priyathamhub/github-readme-stats)
+
+<a href="https://github.com/priyathamhub">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=priyathamhub&show_icons=true&line_height=27" alt="Priyatham's github stats"/>
+</a>
+
+
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/priyathamhub/count.svg" />
