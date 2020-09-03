@@ -21,11 +21,6 @@ I'm a deep thinker and learn to improve skills, love to adapt any work, happy to
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=priyathamhub)](https://github.com/priyathamhub/github-readme-stats)
 
-
-<a href="https://github.com/priyathamhub">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=priyathamhub&show_icons=true&line_height=27" alt="Priyatham's github stats"/>
-</a>
-
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/priyathamhub/count.svg" />
