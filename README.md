@@ -22,7 +22,8 @@ I'm a deep thinker and learn to improve skills, love to adapt any work, happy to
 
 ## Find me around the web
 
-- Sharing updates on <a href="https://www.linkedin.com/in/priyathamhub/">LinkedIn</a> 💼
+- Sharing updates on <a href="https://www.linkedin.com/in/priyathamhub/">LinkedIn</a>
+- Contact me on telegram <a href="https://t.me/thedaredevilsolves/">Telegram</a> 
 
 ## GitHub Stats&#x1f4c8; 
 
