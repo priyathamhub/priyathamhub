@@ -24,6 +24,7 @@ I'm a deep thinker and learn to improve skills, love to adapt any work, happy to
 
 - Sharing updates on <a href="https://www.linkedin.com/in/priyathamhub/">LinkedIn</a>
 - Contact me on <a href="https://t.me/thedaredevilsolves/">Telegram</a> 
+- Practising Coding at <a href="https://www.datacamp.com/profile/priyathamsusarla/">DataCamp</a>, <a href="https://www.sololearn.com/Profile/12036583/">SoloLearn</a>
 
 ## GitHub Stats&#x1f4c8; 
 
