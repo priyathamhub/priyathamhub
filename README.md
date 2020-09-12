@@ -27,7 +27,7 @@ I'm a deep thinker and learn to improve skills, love to adapt any work, happy to
 - Practising Coding at <a href="https://www.datacamp.com/profile/priyathamsusarla/">DataCamp</a>, <a href="https://www.sololearn.com/Profile/12036583/">SoloLearn</a>, <a href="https://www.hackerrank.com/priyathamhc004/">HackerRank</a>
 
 ## GitHub Stats&#x1f4c8; 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=priyathamhub)](https://github.com/priyathamhub/github-readme-stats)
 
 <p align="center"> 
   Visitor count<br>
