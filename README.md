@@ -28,7 +28,6 @@ I'm a deep thinker and learn to improve skills, love to adapt any work, happy to
 
 ## GitHub Stats&#x1f4c8; 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=priyathamhub)](https://github.com/priyathamhub/github-readme-stats)
 
 <p align="center"> 
   Visitor count<br>
