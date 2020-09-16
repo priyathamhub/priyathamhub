@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 I'm a deep thinker and learn to improve skills, love to adapt any work, happy to help. It's not about the career that we chose, it's about what skills we earned. I believe that my knowledge and skills evolve professionally. I'm Currently working on **Machine Learning** and **AWS**.
 
 
-## Find me around the web
+## Find me around the web :globe_with_meridians:
 
 - Contact me on <a href="https://t.me/thedaredevilsolves/">Telegram</a> 
 - Knowing updates on <a href="https://twitter.com/thepriyathams">Twitter</a>
