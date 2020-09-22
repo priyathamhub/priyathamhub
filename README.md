@@ -17,8 +17,13 @@ Here are some ideas to get you started:
 -->
 
 ### About Me
-I'm a deep thinker and learn to improve skills, love to adapt any work, happy to help. It's not about the career that we chose, it's about what skills we earned. I believe that my knowledge and skills evolve professionally. I'm Currently working on **Machine Learning** and **AWS**.
 
+A person with a keen interest in Data Science, Machine Learning, and Deep Learning while working on related projects.
+
+I enjoy challenges that enable me to grow, deep thinker, quick learner with productive problem-solving skills, coding abilities, and interpersonal skills.
+I believe that it's not about the career that we choose, it's about what skills we learn.
+
+Strongly skilled in **Python**, **Java** and I'm Currently working on **Machine Learning**, **PyTorch**, and **AWS**.
 
 ## Find me around the web :globe_with_meridians:
 
