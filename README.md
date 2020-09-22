@@ -29,8 +29,8 @@ I'm a deep thinker and learn to improve skills, love to adapt any work, happy to
 
 ## GitHub Stats&#x1f4c8; 
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=priyathamhub&show_icons=true&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=priyathamhub&hide=css,java,html">
+  <img src = "https://github-readme-stats.vercel.app/api?username=priyathamhub&show_icons=true&theme=tokyonight&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=priyathamhub&hide=css,java,htmll&theme=tokyonight">
 </p>
 
 <p align="center"> 
