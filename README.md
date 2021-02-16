@@ -27,13 +27,13 @@ I'm Currently working on **Machine Learning**, **PyTorch**, and **AWS**.
 
 ## Skills <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width=30>
 
-***Programming Languages***: Java, C++, C
+***Programming Languages***: C, JAVA, C++
 
 ***Scripting Languages***: Python
 
 ***Operating Systems***: Windows, Linux
 
-***Familiar With***: OpenCV, Data Structures, SEO, PyTorch
+***Familiar With***: OpenCV, Data Structures, SEO, PyTorch, Regressions
 
 
 
@@ -43,6 +43,7 @@ I'm Currently working on **Machine Learning**, **PyTorch**, and **AWS**.
 - Knowing updates on <a href="https://twitter.com/thepriyathams">Twitter</a>
 - Sharing updates on <a href="https://www.linkedin.com/in/priyathamhub/">LinkedIn</a>
 - Practising Coding at <a href="https://www.datacamp.com/profile/priyathamsarla/">DataCamp</a>, <a href="https://www.sololearn.com/Profile/12036583/">SoloLearn</a>, <a href="https://www.hackerrank.com/priyathamhc004/">HackerRank</a>
+- Competitive Coding at <a href="https://www.hackerearth.com/@priyathamedu/">HackerEarth</a>, <a href="https://www.codechef.com/users/pstocode/">CodeChef</a>
 
 ## GitHub Stats&#x1f4c8; 
 <p align = "center">
