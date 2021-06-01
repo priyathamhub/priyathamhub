@@ -29,7 +29,9 @@ I'm Currently working on **Machine Learning**, **PyTorch**, and **AWS**.
 
 ***Programming Languages***: C, JAVA, C++
 
-***Scripting Languages***: Python
+***Web Technologies***: HTML, CSS
+
+***Scripting Languages***: Python, JS(Beginner)
 
 ***Operating Systems***: Windows, Linux
 
@@ -42,7 +44,7 @@ I'm Currently working on **Machine Learning**, **PyTorch**, and **AWS**.
 - Contact me on <a href="https://t.me/thedaredevilsolves/">Telegram</a> 
 - Knowing updates on <a href="https://twitter.com/thepriyathams">Twitter</a>
 - Sharing updates on <a href="https://www.linkedin.com/in/priyathamhub/">LinkedIn</a>
-- Practising Coding at <a href="https://www.datacamp.com/profile/priyathamsarla/">DataCamp</a>, <a href="https://www.sololearn.com/Profile/12036583/">SoloLearn</a>, <a href="https://www.hackerrank.com/priyathamhc004/">HackerRank</a>
+- Practising Coding at <a href="https://www.datacamp.com/profile/priyathamsarla/">DataCamp</a>, <a href="https://www.hackerearth.com/@priyathamedu">HackerEarth</a>, <a href="https://www.hackerrank.com/priyathamhc004/">HackerRank</a>, 
 - Competitive Coding at <a href="https://www.hackerearth.com/@priyathamedu/">HackerEarth</a>, <a href="https://www.codechef.com/users/pstocode/">CodeChef</a>
 
 ## GitHub Stats&#x1f4c8; 
