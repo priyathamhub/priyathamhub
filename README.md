@@ -1,4 +1,4 @@
-### Hi there 👋 I am Priyatham Susarla and Welcome to my repositories...
+### Hi there 👋 It's Priyatham Susarla 
 
 
 <!--
