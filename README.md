@@ -35,7 +35,7 @@ I'm Currently working on **Machine Learning**, **Competitive Coding**, and **Web
 
 ***Operating Systems***: Windows, Linux
 
-***Familiar With***: OpenCV, Data Structures, SEO, PyTorch, Regressions
+***Familiar With***: Data Structures, PyTorch, Regressions
 
 
 
@@ -44,8 +44,8 @@ I'm Currently working on **Machine Learning**, **Competitive Coding**, and **Web
 - Contact me on <a href="https://t.me/thedaredevilsolves/">Telegram</a> 
 - Knowing updates on <a href="https://twitter.com/thepriyathams">Twitter</a>
 - Sharing updates on <a href="https://www.linkedin.com/in/priyathamhub/">LinkedIn</a>
-- Practising Coding at <a href="https://www.datacamp.com/profile/priyathamsarla/">DataCamp</a>, <a href="https://www.hackerearth.com/@priyathamedu">HackerEarth</a>, <a href="https://www.hackerrank.com/priyathamhc004/">HackerRank</a>, 
-- Competitive Coding at <a href="https://www.hackerearth.com/@priyathamedu/">HackerEarth</a>, <a href="https://www.codechef.com/users/pstocode/">CodeChef</a>
+- Practising Coding at <a href="https://www.datacamp.com/profile/priyathamsarla/">DataCamp</a>, <a href="https://www.hackerearth.com/@priyathamedu">HackerEarth</a>, <a href="https://www.hackerrank.com/priyathamhc004/">HackerRank</a>
+- Competitive Coding at <a href="https://www.codechef.com/users/pstocode/">CodeChef</a>
 
 ## GitHub Stats&#x1f4c8; 
 <p align = "center">
