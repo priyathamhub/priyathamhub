@@ -23,7 +23,7 @@ A person with a keen interest in Data Science, Machine Learning, and Web Technol
 I enjoy challenges that enable me to grow, deep thinker, quick learner with productive problem-solving skills, coding abilities, and interpersonal skills.
 I believe that it's not about the career that we choose, it's about what skills we learn.
 
-I'm Currently working on **Competitive Coding**, and **Web Scripting**.
+I'm Currently working on **Competitive Coding**, and **Full Stack Development**.
 
 ## Skills <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width=30>
 
