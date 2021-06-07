@@ -29,7 +29,7 @@ I'm Currently working on **Competitive Coding**, and **Web Scripting**.
 
 ***Programming Languages***: C, JAVA
 
-***Web Technologies***: HTML, CSS
+***Web Technologies***: HTML5, CSS3
 
 ***Scripting Languages***: Python, JS(Beginner)
 
